@@ -6,6 +6,8 @@
 
 2.Changer le chemin du fichier Start.bat situer dans votre dossier : BaseTemplate/server-data
 
+
+CHANGEMENT DU START.BAT
 -------------------------------------------------------------
 Aller chercher le chemin jusqu'au \server-data
 Modifier après /d 
@@ -15,6 +17,7 @@ Aller chercher le chemin jusqu'a \BaseTempDEV et ne toucher pas les lignes suiva
 Modifier de C:\ à BaseTempDEV
 - C:\Users\4'Time\Desktop\BaseTempDEV\FXServer.exe +exec server.cfg +set sv_enforcegameBuild 2372
 -------------------------------------------------------------
+
 
 3.Verifier que vous n'avez pas fait d'erreur 
 
