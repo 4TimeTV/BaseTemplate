@@ -7,8 +7,6 @@
 2. Changer le chemin du fichier Start.bat situer dans votre dossier : BaseTemplate/server-data
 
 
-
-
 ▼ CHANGEMENT DU START.BAT ▼
 
 1. Aller chercher le chemin jusqu'au \server-data
