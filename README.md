@@ -28,8 +28,11 @@ Liens utiles :
 - https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/
 
 Vous pouvez dès maintenant lancer votre Start.bat sans soucis.
+
 Vous pourrez aussi changer les informations dans le server.cfg.
+
 N'hésitez pas à m'écrire sur Discord en cas de problèmes.
+
 Discord : 4'Time#1645
 
 
